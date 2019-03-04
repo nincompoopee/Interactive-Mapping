@@ -11,4 +11,5 @@ I consulted this tutorial on using turf.js with mapbox https://docs.mapbox.com/h
 
 I took the time to add a custom toilet icon to mark the bathrooms, and I did this for several reasons. 1- the typical man/woman bathroom symbol is really similar visually to the fork and knife symbol that I use to denote food stalls. I wanted the bathrooms to stand out, and be at the top of the visual hierarchy. 2- A colourful, interesting icon makes the map more eye catching and fun. 3- I wanted to challenge myself! 
 
-Toilet icon: <div>Icons made by <a href="https://www.flaticon.com/authors/smalllikeart" title="smalllikeart">smalllikeart</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+Toilet icon source: <div>Icons made by <a href="https://www.flaticon.com/authors/smalllikeart" title="smalllikeart">smalllikeart</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
